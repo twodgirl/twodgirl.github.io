@@ -3,15 +3,15 @@ title: TSHDX的blog
 SEOTitle: 首页-TSHDX Blog
 header-img: img/title-1.png
 email: 2748178716@qq.com
-description: "弱哎，你很弱哎"
-keyword: "LWS"
+description: "TSHDX"
+keyword: "tshdx"
 url: "https://tshdx.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/tshdx/tshdx.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "《病入膏肓》 512作"
+sidebar-about-description: "《病入膏肓》 TSHDX作"
 sidebar-avatar: /img/hhh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
