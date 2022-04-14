@@ -5,9 +5,9 @@ header-img: img/title-1.png
 email: 2546009315@qq.com
 description: "2Dgirl"
 keyword: "2Dgirl"
-url: "https://tshdx.github.io"          # your host, for absolute URL
+url: "https://twodgirl.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/tshdx/tshdx.github.io.git" # you code repository
+github_repo: "https://github.com/twodgirl/twodgirl.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -65,8 +65,8 @@ gitalk:
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
   repo: tshdx.github.io    #仓库名称
-  owner: tshdx    #github用户名
-  admin: tshdx
+  owner: twodgirl    #github用户名
+  admin: twodgirl
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
