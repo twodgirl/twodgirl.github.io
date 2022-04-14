@@ -11,8 +11,8 @@ github_repo: "https://github.com/twodgirl/twodgirl.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "《病入膏肓》"
-sidebar-avatar: /img/hhh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "monika here~"
+sidebar-avatar: /img/Doki Doki Literature Club Plus 2021_7_9 14_22_32.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
