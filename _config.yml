@@ -1,17 +1,17 @@
 # Site settings
-title: TSHDX的blog
-SEOTitle: 首页-TSHDX Blog
+title: 2Dgirl
+SEOTitle: 首页-2Dgirl
 header-img: img/title-1.png
-email: 2748178716@qq.com
-description: "TSHDX"
-keyword: "tshdx"
+email: 2546009315@qq.com
+description: "2Dgirl"
+keyword: "2Dgirl"
 url: "https://tshdx.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/tshdx/tshdx.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "《病入膏肓》 TSHDX作"
+sidebar-about-description: "《病入膏肓》"
 sidebar-avatar: /img/hhh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
